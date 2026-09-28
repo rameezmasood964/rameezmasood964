@@ -34,55 +34,24 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🚗 Vehiql: AI-Powered Car Marketplace
-Full-stack car marketplace built as my Final Year Project.
-- **Stack:** Next.js, Tailwind CSS, Shadcn UI, PostgreSQL, Prisma ORM
-- **Features:** Gemini AI vehicle photo search, EMI calculator, test-drive scheduling, admin analytics dashboard
-- 🔗 Repo and live demo: coming soon
-
-<!--
-Jab Vehiql push ho jaye to upar wali "coming soon" line hata kar ye daalein:
-🔗 [Source Code](https://github.com/rameezmasood964/vehiql) | [Live Demo](https://YOUR-VERCEL-LINK)
-
-Jab drizzle-practice push ho jaye to ye section add karein:
-
-### 🗄 Drizzle Practice
-Practice project with Drizzle ORM and PostgreSQL.
-🔗 [Source Code](https://github.com/rameezmasood964/drizzle-practice)
--->
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rameezmasood964&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rameezmasood964&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=rameezmasood964&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rameezmasood964&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
-</p>
-
-## 🗂 Profile Summary
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rameezmasood964&theme=tokyonight" alt="Profile details" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rameezmasood964&theme=tokyonight" alt="Repos per language" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rameezmasood964&theme=tokyonight" alt="Most commit language" />
-</p>
-
 ---
+
+<!--
+Jab pehla project push ho jaye to yahan ye section add karein:
+
+## 🚀 Featured Projects
+
+### 🗄 Project Name
+Short description of the project.
+- **Stack:** Next.js, PostgreSQL, Drizzle ORM
+- 🔗 [Source Code](https://github.com/rameezmasood964/REPO-NAME) | [Live Demo](https://YOUR-VERCEL-LINK)
+-->
 
 ## 📫 Let's Connect
 
